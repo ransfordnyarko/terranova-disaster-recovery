@@ -1,0 +1,15 @@
+matplotlib>=3.10.8
+numpy>=2.2.6
+pandas>=2.3.3
+pyparsing==3.3.2
+python-dateutil>=2.9.0.post0
+pytz==2025.2
+seaborn==0.13.2
+uvicorn>=0.34.0
+statsmodels>=0.14.0
+fastapi>=0.105.0
+streamlit>=1.25.0
+optuna>=3.4.0
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+lightgbm>=4.0.0
